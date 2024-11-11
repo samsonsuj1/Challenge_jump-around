@@ -20,7 +20,7 @@ Kangaroos are the only large animals to use hopping as a means of locomotion. Th
     <p>Kangaroos have chambered stomachs similar to those of cattle and sheep. They regurgitate the vegetation they have eaten, chew it as cud, and then swallow it again for final digestion. Different species of kangaroos have different diets, although all are strict herbivores. The eastern grey kangaroo is predominantly a grazer, eating a wide variety of grasses, whereas some other species (e.g. the red kangaroo) include significant amounts of shrubs in their diets. The smaller species of kangaroos also consume hypogeal fungi. Many species are nocturnal, and crepuscular, usually spending the days resting in shade, and the cool evenings, nights and mornings moving about and feeding.</p>
     <p>Because of its grazing habits, the kangaroo has developed specialized teeth. Its incisors are able to crop grass close to the ground, and its molars chop and grind the grass. Since the two sides of the lower jaw are not joined together, the lower incisors are farther apart, giving the kangaroo a wider bite. The silica in grass is abrasive, so kangaroo molars move forward as they are ground down, and eventually fall out, replaced by new teeth that grow in the back. This process is known as polyphyodonty and amongst other mammals, only occurs in elephants and manatees.</p>
     <p>
-    <a href="kangaroos">kangaroos</a> |
+    <a href="#kangaroos">kangaroos</a> |
     <a href="http://en.wikipedia.org/wiki/Kangaroo">Read more on Wikipedia</a>
     </p>
     </body>
